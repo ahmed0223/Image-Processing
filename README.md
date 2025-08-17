@@ -7,7 +7,7 @@ The workflow allows users to upload an image via API Gateway, which stores the i
 
 ## 📌 Architecture
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbf0a831-fbd4-4e59-bd72-0db7c4b7b0f1" />
+<img width="1536" height="1024" alt="image" src="https://github.com/ahmed0223/Image-Processing/blob/main/image-processing-architecture.png" />
 
 
 1. **Web Application** uploads image via **API Gateway**.
